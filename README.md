@@ -25,7 +25,7 @@ The `.skill` file is a zip-compatible package containing this skill directory.
 
 ## 打赏主播
 
-![打赏主播](assets/alipay-reward.jpg)
+![打赏up](assets/alipay-reward.jpg)
 
 ## Usage
 
